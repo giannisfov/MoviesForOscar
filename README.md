@@ -1,0 +1,3 @@
+-Data processing
+-Model training 96% Accurancy
+-Clustering
